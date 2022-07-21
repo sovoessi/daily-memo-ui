@@ -1,0 +1,36 @@
+{
+  "memos": [
+    {
+      "id": 1,
+      "date": "2022-07-08",
+      "tags": "React",
+      "path": "D:\\SANDBOXES\\YT_JavascriptMastery\\ReactJS_FullCourse2022_1H",
+      "app_name": "the-app ",
+      "comment": ""
+    },
+    {
+      "id": 2,
+      "date": "2022-07-08",
+      "tags": "Kotlin",
+      "path": "D:\\SANDBOXES\\RayWenderlich\\KotlinApprentice_3rd\\Practice\\17_Chap",
+      "app_name": "Vehicule",
+      "comment": ""
+    },
+    {
+      "id": 3,
+      "date": "2022-07-07",
+      "tags": "Spring Boot Firebase",
+      "path": "D:\\SANDBOXES\\YT_Appdev\\SpringBootCRUDFirebase\\springboot-firebase",
+      "app_name": "springboot-firebase",
+      "comment": ""
+    },
+    {
+      "id": 4,
+      "date": "2022-07-07",
+      "tags": "Spring React",
+      "path": "D:\\SANDBOXES\\YT_Java_Guides\\5SpringBootProjects10Hrs\\springboot-react\\Employee-Management",
+      "app_name": "Employee-Management",
+      "comment": "MySQL Spring Boot"
+    }
+  ]
+}
